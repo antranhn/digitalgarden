@@ -5,7 +5,7 @@
 
 ---
 
-##### định nghĩa 
+##### định nghĩa :
 thêm hàng mới vào hàng đang thiếu
 
 
