@@ -8,4 +8,4 @@
 mất tiêu, biến mất trong một khoảng thời gian (dài)
 
 ##### ví dụ:
-*Nó lên ghe đi đâu mút mùa lệ thủy rồi.*
+*Nó lên ghe đi đâu mút mùa lệ thủy luôn rồi.*
