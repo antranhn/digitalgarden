@@ -4,7 +4,7 @@
 
 
 xin chào, 
-tôi là an và đây là một thử-nghiệm / lưu-chữ nhỏ của tôi trên không gian mạng. 
+tôi là [[an\|an]] và đây là một thử-nghiệm / lưu-chữ nhỏ của tôi trên không gian mạng. 
 
 ---
 #### thử-nghiệm hiện-tại:
