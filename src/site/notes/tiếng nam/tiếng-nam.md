@@ -12,7 +12,6 @@
 - [[tiếng nam/bổ hàng\|bổ hàng]]
 - [[tiếng nam/mần\|mần]]
 - [[tiếng nam/rốp rẻng\|rốp rẻng]]
-- [[Extras/Templates/Template, tiếng-nam\|Template, tiếng-nam]]
 
 { .block-language-dataview}
 
