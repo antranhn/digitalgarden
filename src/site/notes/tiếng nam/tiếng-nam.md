@@ -13,6 +13,7 @@
 - [[tiếng nam/bổ hàng\|bổ hàng]]
 - [[cà tàng\|cà tàng]]
 - [[tiếng nam/mần\|mần]]
+- [[mút mùa lệ thủy\|mút mùa lệ thủy]]
 - [[tiếng nam/rốp rẻng\|rốp rẻng]]
 
 { .block-language-dataview}
