@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieng-nam/bo-hang/","tags":["#tiếng-nam"],"created":"2025-08-13T22:43:07.543+07:00"}
+{"dg-publish":true,"permalink":"/tieng-nam/bo-hang/","tags":["tiếng-nam"],"created":"2025-08-13T22:43:07.543+07:00"}
 ---
 
 ---
