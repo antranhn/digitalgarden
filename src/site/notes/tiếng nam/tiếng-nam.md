@@ -10,7 +10,7 @@
 ---
 
 - [[tiếng nam/bổ hàng\|bổ hàng]]
-- [[mần\|mần]]
+- [[tiếng nam/mần\|mần]]
 - [[Extras/Templates/Template, tiếng-nam\|Template, tiếng-nam]]
 
 { .block-language-dataview}
