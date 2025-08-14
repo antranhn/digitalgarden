@@ -9,7 +9,9 @@
 
 ---
 
+- [[tiếng nam/bang bang\|bang bang]]
 - [[tiếng nam/bổ hàng\|bổ hàng]]
+- [[cà tàng\|cà tàng]]
 - [[tiếng nam/mần\|mần]]
 - [[tiếng nam/rốp rẻng\|rốp rẻng]]
 
