@@ -3,10 +3,7 @@
 ---
 
 
-<center># TIỂU TỰ </center>
-
 * * *
-
 
 <p align="justify">Có kẻ hỏi: Tự-điển, tự-vị khác nhau thể nào; sao sách ta làm kêu là tự-vị mà không gọi là tự-điển, lại hỏi tự-vị ta tham dụng chữ nho sao gọi là tự-vị quốc âm?
 
