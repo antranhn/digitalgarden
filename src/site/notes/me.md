@@ -5,4 +5,5 @@
 #### more from me:
 - substack: @ashtran
 - wordpress: [phanbacxiu](phanbacxiu.wordpress.com)
+- email: antranhn99@gmail.com
  
