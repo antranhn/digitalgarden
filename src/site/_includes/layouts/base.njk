@@ -2,33 +2,38 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title or "My Site" }}</title>
   <link rel="stylesheet" href="/styles.css">
-
-  <script>
-    // Load saved theme on page load
-    if (localStorage.getItem("theme") === "dark") {
-      document.documentElement.classList.add("dark");
-    }
-
-    // Toggle theme and save preference
-    function toggleTheme() {
-      document.documentElement.classList.toggle("dark");
-      if (document.documentElement.classList.contains("dark")) {
-        localStorage.setItem("theme", "dark");
-      } else {
-        localStorage.setItem("theme", "light");
-      }
-    }
-  </script>
 </head>
-<body>
-  <header style="padding: 1rem;">
-    <button onclick="toggleTheme()">🌓 Toggle Theme</button>
-  </header>
+<body class="{{ theme | default('light') }}">
+  <!-- Theme Toggle Button -->
+  <button id="theme-toggle" style="position:fixed;top:1rem;right:1rem;z-index:1000;">
+    🌓 Toggle Theme
+  </button>
 
+  <!-- Main Page Content -->
   <main>
     {% block content %}{% endblock %}
   </main>
+
+  <!-- Dark/Light Mode Script -->
+  <script>
+    const toggleBtn = document.getElementById('theme-toggle');
+    const body = document.body;
+
+    // Load saved theme
+    if (localStorage.getItem('theme') === 'dark') {
+      body.classList.add('dark');
+    }
+
+    toggleBtn.addEventListener('click', () => {
+      body.classList.toggle('dark');
+      localStorage.setItem(
+        'theme',
+        body.classList.contains('dark') ? 'dark' : 'light'
+      );
+    });
+  </script>
 </body>
 </html>
