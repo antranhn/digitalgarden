@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:41.295+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/按 Án/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:41.295+07:00"}
 ---
 
 # 按 Án. c. Xét tra, dằn, cầm, chận.

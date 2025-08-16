@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieng-nam/rop-reng/","tags":["tiếng-nam"],"created":"2025-08-14T09:18:33.854+07:00"}
+{"dg-publish":true,"permalink":"/tiếng nam/rốp rẻng/","tags":["tiếng-nam"],"created":"2025-08-14T09:18:33.854+07:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieu-tu/","created":"2025-08-15T19:17:30.800+07:00"}
+{"dg-publish":true,"permalink":"/Tiểu Tự/","created":"2025-08-15T19:17:30.800+07:00"}
 ---
 
 

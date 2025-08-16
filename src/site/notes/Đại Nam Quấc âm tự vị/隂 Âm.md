@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.083+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/隂 Âm/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.083+07:00"}
 ---
 
 # 隂 Âm. c. Khí âm, khí làm cốt tử, có nghĩa đối cùng khí dương. Khí tư nhuận, khí không hay động.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ac/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.358+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/惡 Ác/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.358+07:00"}
 ---
 
 # 惡 Ác. c. Dữ, xấu, tội lỗi.

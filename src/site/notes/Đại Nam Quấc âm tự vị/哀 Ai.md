@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:41.385+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/哀 Ai/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:41.385+07:00"}
 ---
 
-# 哀 Ai. c. Bi thương; tiếng bi ai.
+# 哀 Ai
 
 c. Bi thương; tiếng bi ai.
 

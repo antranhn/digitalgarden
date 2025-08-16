@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ach/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:47.128+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/厄 Ạch/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:47.128+07:00"}
 ---
 
 # 厄 Ạch

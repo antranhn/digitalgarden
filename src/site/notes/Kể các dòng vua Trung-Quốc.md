@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ke-cac-dong-vua-trung-quoc/","created":"2025-08-15T19:37:33.355+07:00"}
+{"dg-publish":true,"permalink":"/Kể các dòng vua Trung-Quốc/","created":"2025-08-15T19:37:33.355+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ac/","tags":["âm-tự-vị"],"created":"2025-08-16T13:57:15.376+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/鵶 Ác/","tags":["âm-tự-vị"],"created":"2025-08-16T13:57:15.376+07:00"}
 ---
 
 # 鵶 Ác. n. Con ác.

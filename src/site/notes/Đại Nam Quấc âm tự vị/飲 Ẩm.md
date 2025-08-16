@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.100+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/飲 Ẩm/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.100+07:00"}
 ---
 
 # 飲 Ẩm. c. n. Uống; mắc nước muốn mục.

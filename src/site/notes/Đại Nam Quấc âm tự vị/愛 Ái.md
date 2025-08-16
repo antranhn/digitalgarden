@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.373+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/愛 Ái/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.373+07:00"}
 ---
 
 # 愛 Ái. c. Yêu mến.

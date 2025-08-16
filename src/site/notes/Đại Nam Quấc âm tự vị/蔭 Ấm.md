@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.117+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/蔭 Ấm/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.117+07:00"}
 ---
 
 # 蔭 Ấm. c. n. Vừa nóng nóng; giữa chừng lạnh nóng, không có nguội. Che chở.

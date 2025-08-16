@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieng-nam/ca-tang/","tags":["tiếng-nam"],"created":"2025-08-14T09:26:47.387+07:00"}
+{"dg-publish":true,"permalink":"/tiếng nam/cà tàng/","tags":["tiếng-nam"],"created":"2025-08-14T09:26:47.387+07:00"}
 ---
 
 ---

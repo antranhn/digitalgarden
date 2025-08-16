@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.047+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/案 Án/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:43.047+07:00"}
 ---
 
 # 案 Án. c. Bàn, ghế, giấy biên việc tra hỏi, việc kiện thưa; chuyện phạm phép, phạm luật; lời xử đoán.

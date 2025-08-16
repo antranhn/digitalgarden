@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieng-nam/tieng-nam/","contentClasses":"list-cards","created":"2025-08-13T15:50:29.916+07:00"}
+{"dg-publish":true,"permalink":"/tiếng nam/tiếng-nam/","contentClasses":"list-cards","created":"2025-08-13T15:50:29.916+07:00"}
 ---
 
 

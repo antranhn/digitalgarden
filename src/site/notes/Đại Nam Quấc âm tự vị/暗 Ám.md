@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:48.229+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/暗 Ám/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:48.229+07:00"}
 ---
 
 # 暗 Ám. c. Chính nghĩa là tối mờ. 暗 地 求 和 Ám địa cầu hòa. Cầu hòa thầm tối.

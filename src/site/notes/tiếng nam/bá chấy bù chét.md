@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieng-nam/ba-chay-bu-chet/","tags":["tiếng-nam"],"created":"2025-08-14T09:54:44.563+07:00"}
+{"dg-publish":true,"permalink":"/tiếng nam/bá chấy bù chét/","tags":["tiếng-nam"],"created":"2025-08-14T09:54:44.563+07:00"}
 ---
 
 ---

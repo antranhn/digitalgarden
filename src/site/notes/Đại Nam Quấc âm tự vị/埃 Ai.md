@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.365+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/埃 Ai/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.365+07:00"}
 ---
 
 # 埃 Ai. c. Chánh nghĩa là bụi bụi. Mượn dùng là ai, người nào; tiếng hỏi.

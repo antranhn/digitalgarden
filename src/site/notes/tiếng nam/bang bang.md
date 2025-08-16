@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieng-nam/bang-bang/","tags":["tiếng-nam"],"created":"2025-08-14T09:32:11.262+07:00"}
+{"dg-publish":true,"permalink":"/tiếng nam/bang bang/","tags":["tiếng-nam"],"created":"2025-08-14T09:32:11.262+07:00"}
 ---
 
 ---

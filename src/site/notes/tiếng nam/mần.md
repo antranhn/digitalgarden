@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tieng-nam/man/","tags":["tiếng-nam"],"created":"2025-08-14T09:08:53.955+07:00"}
+{"dg-publish":true,"permalink":"/tiếng nam/mần/","tags":["tiếng-nam"],"created":"2025-08-14T09:08:53.955+07:00"}
 ---
 
 ---

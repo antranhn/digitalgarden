@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an/","tags":["âm-tự-vị"],"created":"2025-08-15T14:52:03.601+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/咹 Ăn/","tags":["âm-tự-vị"],"created":"2025-08-15T14:52:03.601+07:00"}
 ---
 
 # 咹 Ăn.

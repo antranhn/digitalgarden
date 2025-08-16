@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:45.768+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/縊 Ái/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:45.768+07:00"}
 ---
 
 # 縊 Ái. c. Buộc, thắt.

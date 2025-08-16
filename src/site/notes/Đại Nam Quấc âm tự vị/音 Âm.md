@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:56.706+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/音 Âm/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:56.706+07:00"}
 ---
 
 # 音 Âm.

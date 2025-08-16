@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ach/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.343+07:00"}
+{"dg-publish":true,"permalink":"/Đại Nam Quấc âm tự vị/軛 Ách/","tags":["âm-tự-vị"],"created":"2025-08-16T13:46:44.343+07:00"}
 ---
 
 # 軛 Ách. c. Cây ngang trước cổ xe, bắp cây để mà buộc hai con trâu. Tai nạn, cực khổ.
