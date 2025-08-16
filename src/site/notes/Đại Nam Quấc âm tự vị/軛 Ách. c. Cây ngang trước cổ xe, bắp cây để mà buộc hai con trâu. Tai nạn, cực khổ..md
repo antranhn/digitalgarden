@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ach-c-cay-ngang-truoc-co-xe-bap-cay-de-ma-buoc-hai-con-trau-tai-nan-cuc-kho/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:52.814+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ach-c-cay-ngang-truoc-co-xe-bap-cay-de-ma-buoc-hai-con-trau-tai-nan-cuc-kho/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:52.814+07:00"}
 ---
 
 # 軛 Ách. c. Cây ngang trước cổ xe, bắp cây để mà buộc hai con trâu. Tai nạn, cực khổ.

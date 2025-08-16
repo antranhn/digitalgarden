@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-c-ban-ghe-giay-bien-viec-tra-hoi-viec-kien-thua-chuyen-pham-phep-pham-luat-loi-xu-doan/","tags":["âm-vị-tự"],"created":"2025-08-15T14:52:02.246+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-c-ban-ghe-giay-bien-viec-tra-hoi-viec-kien-thua-chuyen-pham-phep-pham-luat-loi-xu-doan/","tags":["âm-tự-vị"],"created":"2025-08-15T14:52:02.246+07:00"}
 ---
 
 # 案 Án. c. Bàn, ghế, giấy biên việc tra hỏi, việc kiện thưa; chuyện phạm phép, phạm luật; lời xử đoán.

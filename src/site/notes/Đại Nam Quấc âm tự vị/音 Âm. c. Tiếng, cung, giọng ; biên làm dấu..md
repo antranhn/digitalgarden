@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-tieng-cung-giong-bien-lam-dau/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:56.706+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-tieng-cung-giong-bien-lam-dau/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:56.706+07:00"}
 ---
 
 # 音 Âm. c. Tiếng, cung, giọng ; biên làm dấu.

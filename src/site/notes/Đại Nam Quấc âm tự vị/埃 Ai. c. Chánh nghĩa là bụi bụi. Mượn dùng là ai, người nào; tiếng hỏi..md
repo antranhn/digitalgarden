@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai-c-chanh-nghia-la-bui-bui-muon-dung-la-ai-nguoi-nao-tieng-hoi/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:49.596+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai-c-chanh-nghia-la-bui-bui-muon-dung-la-ai-nguoi-nao-tieng-hoi/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:49.596+07:00"}
 ---
 
 # 埃 Ai. c. Chánh nghĩa là bụi bụi. Mượn dùng là ai, người nào; tiếng hỏi.

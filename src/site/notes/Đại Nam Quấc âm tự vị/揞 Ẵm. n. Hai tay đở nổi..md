@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-n-hai-tay-do-noi/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:55.841+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-n-hai-tay-do-noi/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:55.841+07:00"}
 ---
 
 # 揞 Ẵm. n. Hai tay đở nổi.

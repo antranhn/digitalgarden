@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ay-n-tieng-chi-nguoi-chi-vat-minh-noi-lai-kia-do/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:54.929+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ay-n-tieng-chi-nguoi-chi-vat-minh-noi-lai-kia-do/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:54.929+07:00"}
 ---
 
 # 意 Ấy. n. Tiếng chỉ người chỉ vật mình nói lại; kia, đó.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ach-n-mot-minh-it-dung/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:47.128+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ach-n-mot-minh-it-dung/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:47.128+07:00"}
 ---
 
 # 厄 Ạch. n. Một mình ít dùng.

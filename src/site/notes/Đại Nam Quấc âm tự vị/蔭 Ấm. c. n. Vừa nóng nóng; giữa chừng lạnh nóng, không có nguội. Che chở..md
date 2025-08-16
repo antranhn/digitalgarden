@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-n-vua-nong-nong-giua-chung-lanh-nong-khong-co-nguoi-che-cho/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:58.130+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-n-vua-nong-nong-giua-chung-lanh-nong-khong-co-nguoi-che-cho/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:58.130+07:00"}
 ---
 
 # 蔭 Ấm. c. n. Vừa nóng nóng; giữa chừng lạnh nóng, không có nguội. Che chở.

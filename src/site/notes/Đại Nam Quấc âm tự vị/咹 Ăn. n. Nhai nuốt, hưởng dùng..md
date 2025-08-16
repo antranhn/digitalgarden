@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-n-nhai-nuot-huong-dung/","tags":["âm-vị-tự"],"created":"2025-08-15T14:52:03.601+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-n-nhai-nuot-huong-dung/","tags":["âm-tự-vị"],"created":"2025-08-15T14:52:03.601+07:00"}
 ---
 
 # 咹 Ăn. n. Nhai nuốt, hưởng dùng.

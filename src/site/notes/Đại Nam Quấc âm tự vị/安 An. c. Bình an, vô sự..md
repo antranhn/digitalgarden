@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-c-binh-an-vo-su/","tags":["âm-vị-tự"],"created":"2025-08-15T14:52:00.178+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-c-binh-an-vo-su/","tags":["âm-tự-vị"],"created":"2025-08-15T14:52:00.178+07:00"}
 ---
 
 # 安 An. c. Bình an, vô sự.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-chinh-nghia-la-toi-mo-am-dia-cau-hoa-cau-hoa-tham-toi/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:55.849+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-chinh-nghia-la-toi-mo-am-dia-cau-hoa-cau-hoa-tham-toi/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:55.849+07:00"}
 ---
 
 # 暗 Ám. c. Chính nghĩa là tối mờ. 暗 地 求 和 Ám địa cầu hòa. Cầu hòa thầm tối.

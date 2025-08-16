@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai-c-bi-thuong-tieng-bi-ai/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:49.591+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/ai-c-bi-thuong-tieng-bi-ai/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:49.591+07:00"}
 ---
 
 # 哀 Ai. c. Bi thương; tiếng bi ai.

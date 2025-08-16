@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-c-xet-tra-dan-cam-chan/","tags":["âm-vị-tự"],"created":"2025-08-15T14:52:06.562+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/an-c-xet-tra-dan-cam-chan/","tags":["âm-tự-vị"],"created":"2025-08-15T14:52:06.562+07:00"}
 ---
 
 # 按 Án. c. Xét tra, dằn, cầm, chận.

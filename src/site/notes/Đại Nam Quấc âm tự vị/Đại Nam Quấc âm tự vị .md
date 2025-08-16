@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/dai-nam-quac-am-tu-vi/","created":"2025-08-16T11:43:09.321+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/dai-nam-quac-am-tu-vi/","contentClasses":"list-cards","created":"2025-08-16T11:43:09.321+07:00"}
 ---
 
 ---

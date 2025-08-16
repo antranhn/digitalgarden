@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-khi-am-khi-lam-cot-tu-co-nghia-doi-cung-khi-duong-khi-tu-nhuan-khi-khong-hay-dong/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:54.715+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-khi-am-khi-lam-cot-tu-co-nghia-doi-cung-khi-duong-khi-tu-nhuan-khi-khong-hay-dong/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:54.715+07:00"}
 ---
 
 # 隂 Âm. c. Khí âm, khí làm cốt tử, có nghĩa đối cùng khí dương. Khí tư nhuận, khí không hay động.

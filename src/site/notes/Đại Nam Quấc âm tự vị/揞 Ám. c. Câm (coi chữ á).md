@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-cam-coi-chu-a/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:55.808+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-cam-coi-chu-a/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:55.808+07:00"}
 ---
 
 # 揞 Ám. c. Câm (coi chữ á)

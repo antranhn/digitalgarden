@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-n-uong-mac-nuoc-muon-muc/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:58.197+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-n-uong-mac-nuoc-muon-muc/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:58.197+07:00"}
 ---
 
 # 飲 Ẩm. c. n. Uống; mắc nước muốn mục.

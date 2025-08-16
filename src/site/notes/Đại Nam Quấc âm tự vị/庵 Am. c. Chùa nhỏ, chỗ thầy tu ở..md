@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-chua-nho-cho-thay-tu-o/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:54.674+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/am-c-chua-nho-cho-thay-tu-o/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:54.674+07:00"}
 ---
 
 # 庵 Am. c. Chùa nhỏ, chỗ thầy tu ở.

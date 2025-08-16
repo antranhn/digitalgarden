@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/a-n-tieng-than-keu-lay-lam-la-tieng-tro-tu-dat-truoc-hoac-dat-sau-tieng-noi-do-dung/","tags":["âm-vị-tự"],"created":"2025-08-15T14:51:43.429+07:00"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi/a-n-tieng-than-keu-lay-lam-la-tieng-tro-tu-dat-truoc-hoac-dat-sau-tieng-noi-do-dung/","tags":["âm-tự-vị"],"created":"2025-08-15T14:51:43.429+07:00"}
 ---
 
 # 阿 A. n. Tiếng than kêu, lấy làm lạ, tiếng trợ từ, đặt trước, hoặc đặt sau tiếng nói; đồ dùng.
