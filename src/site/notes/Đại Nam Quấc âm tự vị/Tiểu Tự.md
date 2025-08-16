@@ -5,7 +5,7 @@
 
 * * *
 
-<p align="justify">Có kẻ hỏi: Tự-điển, tự-vị khác nhau thể nào; sao sách ta làm kêu là tự-vị mà không gọi là tự-điển, lại hỏi tự-vị ta tham dụng chữ nho sao gọi là tự-vị quốc âm?
+Có kẻ hỏi: Tự-điển, tự-vị khác nhau thể nào; sao sách ta làm kêu là tự-vị mà không gọi là tự-điển, lại hỏi tự-vị ta tham dụng chữ nho sao gọi là tự-vị quốc âm?
 
 Tự-điển, tự-vị khác nhau có một sự rộng hẹp: tự-điển phải có chú giải, mỗi chữ, mỗi tiếng đều phải dẫn điển, dẫn tích, nguyên là chữ sách nào, nguyên là lời ai nói, cả thẩy đều phải cứ kinh truyện làm thầy ; chí như tự-vị cũng là sách hội biên các thứ chữ, cùng các tiếng nói, song trong ấy thích chữ một, nghĩa một, mà không dẫn điển dẫn tích gì. Tuy sách ta làm có chú giải rộng, có đem những lời ngạn ngữ, có trưng những lời nói chuẩn đích trong các ca vãn hay, như là Ca-trù, Chinh-phụ-ngâm, Kim-vân-kiều, vân vân; nhưng vậy cũng là chuyện chơi, chuyện ngoài, không phải là kinh điển. Suy một lẽ ấy, dầu sách ta rộng rãi, tường tất thể nào, cũng chưa dám bì với tự-vị Tàu mà gọi là tự-điển.
 
@@ -27,7 +27,7 @@ Nghe lời quan tham tán, ta bèn làm đơn xin quan lớn Thống đốc Nam 
 
 Nhờ hội phái viên có ông Navelle là quan giám đốc làm chủ, cùng nhiều quan lớn khác rộng xét công việc ta làm, đều cho là công việc đáng in, mà phúc lại cho quan Thống đốc.
 
-Nay quan lớn Thống-đốc rộng lượng, y theo lời hội phái viên, bàn cùng hội đồng Quản-hạt, chịu chuẩn tiền in tự vị ta, ta lấy làm mầng cùng cám ơn người, cám ơn các quan trọng hai hội nhìn đến công khó nhọc ta, ta mới được đem ra mà chung cọng với mọi người, chính là đều ta sở nguyện.</p>
+Nay quan lớn Thống-đốc rộng lượng, y theo lời hội phái viên, bàn cùng hội đồng Quản-hạt, chịu chuẩn tiền in tự vị ta, ta lấy làm mầng cùng cám ơn người, cám ơn các quan trọng hai hội nhìn đến công khó nhọc ta, ta mới được đem ra mà chung cọng với mọi người, chính là đều ta sở nguyện.
 
 <p align="right">Quí-tị niên cúc ngoạt cốc đán.</p>
 

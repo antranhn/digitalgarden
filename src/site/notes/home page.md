@@ -9,7 +9,7 @@ tôi là [[me\|an]] và đây là một thử-nghiệm / lưu-chữ nhỏ của 
 ---
 #### thử-nghiệm hiện-tại:
 - [[tiếng nam/tiếng-nam\|tiếng-nam]]
-- [[Đại Nam Quấc âm tự vị/Đại Nam Quấc âm tự vị - A\|Đại Nam Quấc âm tự vị - A]]
+- [[Đại Nam Quấc âm tự vị/Đại Nam Quấc âm tự vị \|Đại Nam Quấc âm tự vị ]]
 
 
 
