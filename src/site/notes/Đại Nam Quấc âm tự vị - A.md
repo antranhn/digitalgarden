@@ -5,7 +5,6 @@
 # Đại Nam Quấc âm tự vị - A
 ---
 
-- [[Extras/Templates/Template, đại nam quấc âm tự vị\|Template, đại nam quấc âm tự vị]]
 - [[Đại Nam Quấc âm tự vị/丫. A. (Nha.)\|丫. A. (Nha.)]]
 - [[Đại Nam Quấc âm tự vị/亞 Á\|亞 Á]]
 - [[Đại Nam Quấc âm tự vị/厄 Ạch\|厄 Ạch]]
