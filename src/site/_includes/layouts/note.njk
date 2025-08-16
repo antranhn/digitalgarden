@@ -2,7 +2,7 @@
 permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 
-{% extends "base.njk" %}
+{% extends "layouts/base.njk" %}
 
 {% block body %}
   {% include "components/notegrowthhistory.njk" %}
@@ -24,3 +24,4 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     </article>
   </main>
 {% endblock %}
+
